@@ -1,1 +1,3 @@
 # nextjsulticourse
+
+following mosh course
